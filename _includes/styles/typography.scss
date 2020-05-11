@@ -1,0 +1,80 @@
+/* sen-regular - latin */
+@font-face {
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Sen Regular'), local('Sen-Regular'),
+       url('../assets/fonts/sen-v1-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/sen-v1-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* sen-700 - latin */
+@font-face {
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Sen Bold'), local('Sen-Bold'),
+       url('../assets/fonts/sen-v1-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/sen-v1-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* sen-800 - latin */
+@font-face {
+  font-family: 'Sen';
+  font-style: normal;
+  font-weight: 800;
+  src: local('Sen ExtraBold'), local('Sen-ExtraBold'),
+       url('../assets/fonts/sen-v1-latin-800.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../assets/fonts/sen-v1-latin-800.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+
+html {
+  font-size: 16px;
+  height: 100%;
+
+  @media screen and (min-width:320px) {
+    font-size: calc(16px + 6 * ((100vw - 320px) / 680));
+  }
+
+  @media screen and (min-width:1000px) {
+    font-size: 22px;
+  }
+}
+
+
+body {
+  font-family: 'Sen',Geneva,sans-serif;
+  color: $text-color;
+  line-height: 1.3;
+  background-color: $background-color;
+  min-height: 100%;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+h4 {
+  font-size: 1.1rem;
+}
+
+a {
+  text-decoration: underline;
+  color: $brand-color;
+
+  &:focus,
+  &:hover {
+    filter: saturate(160%);
+  }
+}
+
+code {
+  word-break: break-word;
+}
+
