@@ -5,13 +5,13 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 module.exports = {
   entry: './scripts/main.js',
   output: {
-    path: path.resolve(__dirname, 'docs'),
+    path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js'
   },
   mode: 'development',
   context: path.resolve(__dirname, '_includes'),
   watchOptions: {
-    ignored: ['/node_modules', '/docs']
+    ignored: ['/node_modules', '/dist']
   },
   module: {
     rules: [

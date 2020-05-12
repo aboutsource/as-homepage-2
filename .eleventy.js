@@ -1,7 +1,7 @@
 module.exports = {
   dir: {
     input: "views",
-    output: "docs",
+    output: "dist",
     includes: "../_includes"
   }
 };
