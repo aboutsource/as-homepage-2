@@ -6,7 +6,7 @@
   "scripts": {
     "watch": "webpack --watch",
     "serve": "eleventy --serve",
-    "prepack": "rm -rf _docs && webpack && eleventy"
+    "build": "rm -rf _docs && webpack && eleventy"
   },
   "author": "aboutsource Team",
   "license": "ISC",
