@@ -38,29 +38,21 @@ Die nachfolgende Erklärung gibt Ihnen einen Überblick darüber, wie wir diesen
 
 ##### Datenverarbeitung auf dieser Internetseite
 
-Wir erheben und speichern automatisch Informationen, die Ihr Browser an uns übermittelt. Dies sind u.a.:
+Bei der Nutzung dieser Seite speichert die aboutsource GmbH keine Daten. Es findet außerdem keine Webanalyse statt. 
 
-- Browsertyp/ -version
-- verwendetes Betriebssystem
-- Referrer URL (die zuvor besuchte Seite)
-- Hostname des zugreifenden Rechners (IP Adresse)
-- Uhrzeit der Serveranfrage.
+###### Datenverarbeitung bei der Nutzung von Github Pages
 
-Diese Daten sind für uns nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen, die Daten werden zudem nach einer statistischen Auswertung gelöscht.
+Für das Hosting dieser Website nutzen wir den Dienst Github Pages der 
+Github Inc., 88 Colin P. Kelly Jr. St., San Francisco, CA 94107, United States
+Bitte beachten Sie deshalb dementsprechend auch die Datenschutzrichtlinien der Github inc. unter https://help.github.com/en/github/site-policy/github-privacy-statement sowie die Privacy Shield Complience unter https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI&status=Active
 
-##### Cookies
+###### Datenverarbeitung bei der Nutzung der Kontaktadresse
 
-Die Internetseiten verwenden so genannte Cookies. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Durch Cookies können wir den Internetauftritt der aboutsource GmbH in Hinsicht auf Nutzerfreundlichkeit und Darstellung der Seite optimieren. BesucherInnen unsere Internetseite können das Setzen eines Cookies jederzeit durch eine entsprechende Einstellung in ihrem Webbrowser verhindern. Bereits gesetze Cokkies können ebenfalls über den Webbrowser gelöscht werden.
+Kontaktieren Sie uns über die angebotenen Kontaktadressen, werden Ihre Angaben gespeichert, damit auf diese zur Bearbeitung Ihres Anliegens zurückgegriffen werden kann. Ohne Ihre Einwilligung werden diese Daten nicht an Dritte weitergegeben.
 
-##### Webseitenanalyse
+###### Externe Links
 
-Diese Website benutzt Piwik, eine Open-Source-Software zur statistischen Auswertung der Besucherzugriffe. Die Informationen über Ihre Benutzung dieses Internetangebotes werden auf einem Server in Deutschland gespeichert. Die IP-Adresse wird sofort nach der Verarbeitung und vor deren Speicherung anonymisiert. Sie können die Installation der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich nutzen können. Mit einem Klick auf den unten steheden Link können Nutzerinnen dieser Seite die Webseitenanalyse unterbinden. Dies ist auch global durch das Einschalten der "do not track" Funktion in den Einstellungen des verwendetetn Webbrowsers möglich.
-
-##### Löschung und Sperrung von personenbezogenen Daten
-
-Aboutsource GmbH verarbeitet und speichert personenbezogene Daten der NutzerInnen dieser Website nur für den Zeitraum, der zur Erreichung des Speicherungszwecks erforderlich ist oder sofern dies durch den Europäischen Richtlinien- und Verordnungsgeber oder einen anderen Gesetzgeber in Gesetzen oder Vorschriften, welchen der für die Verarbeitung Verantwortliche unterliegt, vorgesehen wurde.
-
-Entfällt der Speicherungszweck oder läuft eine vom Europäischen Richtlinien- und Verordnungsgeber oder einem anderen zuständigen Gesetzgeber vorgeschriebene Speicherfrist ab, werden die personenbezogenen Daten routinemäßig und entsprechend den gesetzlichen Vorschriften gesperrt oder gelöscht.
+Auf unserer Website finden sich Links auf externe Inhalte. Hiermit verweisen wir ausdrücklich darauf, dass die aboutsource GmbH keinerlei Einfluss auf den Inhalt der verlinkten Seiten hat und dementsprechend keine Haftung übernimmt.
 
 ##### Rechte der NutzerInnen der Website von aboutsource
 
