@@ -51,6 +51,7 @@ module.exports = {
     }),
     new CopyPlugin([
       { from: 'assets/images', to: 'assets/images' },
+      { from: 'CNAME', to: 'CNAME', toType: 'file' }
     ]),
   ]
 };
