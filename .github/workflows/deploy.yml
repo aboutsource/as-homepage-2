@@ -13,7 +13,7 @@ jobs:
 
       - name: Setup Node with NVM
         shell: bash -l {0}
-        run: nvm use
+        run: nvm install && nvm use
 
       - name: Cache dependencies
         uses: actions/cache@v2
