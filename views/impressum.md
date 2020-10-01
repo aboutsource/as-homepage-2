@@ -16,8 +16,7 @@ Sitz der Gesellschaft Leipzig – Sachsen – Amtsgericht Leipzig – HRB 27252 
 
 #### Kontakt
 
-Mail: info@aboutsource.net\
-Telefon: +49 341 94 69 38 25
+E-Ḿail: <a href="mailto:kontakt@aboutsource.net">kontakt@aboutsource.net</a>
 
 #### Haftungshinweis
 
@@ -27,8 +26,7 @@ Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt d
 
 Tim Maucksch\
 Klingenstr. 22, 04229 Leipzig\
-Mail: <a href="mailto:dsb@aboutsource.net">dsb@aboutsource.net</a>\
-Telefon: <a href="tel:+4934194693825">+49 341 94 69 38 25</a>
+E-Mail: <a href="mailto:dsb@aboutsource.net">dsb@aboutsource.net</a>
 
 #### Datenschutz
 
@@ -38,11 +36,11 @@ Die nachfolgende Erklärung gibt Ihnen einen Überblick darüber, wie wir diesen
 
 ##### Datenverarbeitung auf dieser Internetseite
 
-Bei der Nutzung dieser Seite speichert die about source GmbH keine Daten. Es findet außerdem keine Webanalyse statt. 
+Bei der Nutzung dieser Seite speichert die about source GmbH keine Daten. Es findet außerdem keine Webanalyse statt.
 
 ###### Datenverarbeitung bei der Nutzung von Github Pages
 
-Für das Hosting dieser Website nutzen wir den Dienst Github Pages der 
+Für das Hosting dieser Website nutzen wir den Dienst Github Pages der
 Github Inc., 88 Colin P. Kelly Jr. St., San Francisco, CA 94107, United States
 Bitte beachten Sie deshalb dementsprechend auch die Datenschutzrichtlinien der Github inc. unter https://help.github.com/en/github/site-policy/github-privacy-statement sowie die Privacy Shield Complience unter https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI&status=Active
 
