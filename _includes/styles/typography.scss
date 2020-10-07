@@ -123,13 +123,14 @@ h5 {
   font-size: 1rem;
 }
 
-main a {
+a {
   text-decoration: underline;
   color: $brand-color;
 
   &:focus,
   &:hover {
     filter: saturate(160%);
+    color: $brand-color;
   }
 }
 
