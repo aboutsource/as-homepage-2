@@ -122,3 +122,4 @@ Automatische Entscheidungsfindung oder ein Profiling findet ausdrücklich nicht 
 Ihr Vertrauen ist uns wichtig. Daher möchten wir Ihnen jederzeit Rede und Antwort bezüglich der Verarbeitung Ihrer personenbezogenen Daten stehen. Wenn Sie Fragen haben, die Ihnen diese Datenschutzerklärung nicht beantworten konnte oder wenn Sie zu einem Punkt vertiefte Informationen wünschen, wenden Sie sich bitte jederzeit an uns.
 
 Diese Datenschutzerklärung wurde durch den Datenschutzerklärungs-Generator der DGD Deutsche Gesellschaft für Datenschutz GmbH, die als <a href="https://dg-datenschutz.de/datenschutz-dienstleistungen/externer-datenschutzbeauftragter/">Externer Datenschutzbeauftragter Leipzig</a> tätig ist, in Kooperation mit dem <a href="https://www.wbs-law.de/">Datenschutz Rechtsanwalt Christian Solmecke</a> erstellt.
+
