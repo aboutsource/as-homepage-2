@@ -1,9 +1,9 @@
 ---
 layout: layouts/main-layout.liquid
-pageTitle: about source GmbH - Impressum
+pageTitle: about source GmbH - Kontakt/Impressum
 ---
 
-# Impressum
+# Kontakt/Impressum
 
 about source GmbH Klingenstr. 22, 04229 Leipzig
 
