@@ -10,3 +10,78 @@
   margin-bottom: 2rem;
 }
 
+
+.glitch {
+  color: white;
+  position: relative;
+  display: inline-block;
+  position: relative;
+  padding: 0;
+
+  &::before,
+  &::after {
+    content: attr(data-text);
+    position: absolute;
+    background-color: $background-color;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+  }
+
+  &:before {
+    left: 1px;
+    text-shadow: -1px 0 #f00;
+    animation: noise1 2s linear infinite alternate-reverse;
+  }
+
+  &:after {
+    left: -1px;
+    text-shadow:  -1px 0 #00f;
+    animation: noise2 12s linear infinite alternate-reverse;
+  }
+}
+
+@keyframes noise1 {
+  0% {
+    clip-path: inset(45% 0 31% 0);
+  }
+  20% {
+    clip-path: inset(92% 0 2% 0);
+  }
+  40% {
+    clip-path: inset(33% 0 51% 0);
+  }
+  60% {
+    clip-path: inset(65% 0 18% 0);
+  }
+  80% {
+    clip-path: inset(24% 0 52% 0);
+  }
+  100% {
+    clip-path: inset(38% 0 27% 0);
+  }
+}
+
+@keyframes noise2 {
+  0% {
+    clip-path: inset(25% 0 41% 0);
+  }
+  20% {
+    clip-path: inset(72% 0 12% 0);
+  }
+  40% {
+    clip-path: inset(33% 0 51% 0);
+  }
+  60% {
+    clip-path: inset(65% 0 8% 0);
+  }
+  80% {
+    clip-path: inset(24% 0 62% 0);
+  }
+  100% {
+    clip-path: inset(38% 0 37% 0);
+  }
+}
+
+

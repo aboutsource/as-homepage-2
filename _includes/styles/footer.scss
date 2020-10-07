@@ -1,0 +1,17 @@
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #1a1a1a;
+}
+
+.footer a {
+  display: inline-block;
+  margin-right: 1rem;
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  font-size: .7rem;
+  color: white;
+  color: $brand-color;
+  text-shadow: 0 0 1px black;
+}
