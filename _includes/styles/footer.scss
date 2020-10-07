@@ -3,6 +3,7 @@
   bottom: 0;
   width: 100%;
   background-color: #1a1a1a;
+  box-shadow: 0 -20px 20px #1a1a1a;
 }
 
 .footer a {
@@ -15,4 +16,10 @@
   color: $brand-color;
   text-shadow: 0 0 1px black;
   font-weight: 700;
+  text-decoration: none;
+
+  &:hover,
+  &:active {
+    text-decoration: underline;
+  }
 }
