@@ -1,6 +1,7 @@
 const path = require('path');
 const CopyPlugin = require('copy-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+const BrowserSyncPlugin = require('browser-sync-webpack-plugin')
 
 module.exports = {
   entry: './scripts/main.js',
@@ -53,5 +54,10 @@ module.exports = {
       { from: 'assets/images', to: 'assets/images' },
       { from: 'CNAME', to: 'CNAME', toType: 'file' }
     ]),
+    new BrowserSyncPlugin({
+      host: 'localhost',
+      port: 8080,
+      server: { baseDir: ['dist'] }
+    }),
   ]
 };
