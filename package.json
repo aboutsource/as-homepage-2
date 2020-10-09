@@ -19,7 +19,7 @@
     "@fortawesome/fontawesome-free": "^5.15.1",
     "bootstrap": "^4.5.2",
     "browser-sync-webpack-plugin": "^2.2.2",
-    "css-loader": "^4.2.1",
+    "css-loader": "^4.3.0",
     "debug": "^4.1.1",
     "webpack": "^4.44.2"
   },
