@@ -5,7 +5,7 @@ pageTitle: about source GmbH - Kontakt/Impressum
 
 # Kontakt/Impressum
 
-about source GmbH Klingenstr. 22, 04229 Leipzig
+about source GmbH, Klingenstr. 22, 04229 Leipzig
 
 #### Geschäftsführer
 
