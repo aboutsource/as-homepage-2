@@ -20,7 +20,7 @@
     "bootstrap": "^4.5.2",
     "browser-sync-webpack-plugin": "^2.2.2",
     "css-loader": "^4.2.1",
-    "debug": "^4.1.1",
+    "debug": "^4.2.0",
     "webpack": "^4.44.2"
   },
   "devDependencies": {
