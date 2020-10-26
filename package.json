@@ -15,7 +15,7 @@
     "_dist"
   ],
   "dependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^0.11.1",
     "@fortawesome/fontawesome-free": "^5.15.1",
     "bootstrap": "^4.5.3",
     "browser-sync-webpack-plugin": "^2.2.2",
