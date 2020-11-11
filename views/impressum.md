@@ -9,7 +9,6 @@ about source GmbH, Klingenstr. 22, 04229 Leipzig
 
 #### Geschäftsführer
 
-Florian Bertsch\
 Leonhard Kugler
 
 Sitz der Gesellschaft Leipzig – Sachsen – Amtsgericht Leipzig – HRB 27252 Ust-ID: DE277613697
