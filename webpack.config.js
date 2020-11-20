@@ -50,10 +50,13 @@ module.exports = {
     new MiniCssExtractPlugin({
      filename: 'style.css'
     }),
-    new CopyPlugin([
-      { from: 'assets/images', to: 'assets/images' },
-      { from: 'CNAME', to: 'CNAME', toType: 'file' }
-    ]),
+    new CopyPlugin({
+      patterns:
+      [
+        { from: 'assets/images', to: 'assets/images' },
+        { from: 'CNAME', to: 'CNAME', toType: 'file' }
+      ],
+    }),
     new BrowserSyncPlugin({
       host: 'localhost',
       port: 8080,
