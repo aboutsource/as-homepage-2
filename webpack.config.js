@@ -53,8 +53,7 @@ module.exports = {
     new CopyPlugin({
       patterns:
       [
-        { from: 'assets/images', to: 'assets/images' },
-        { from: 'CNAME', to: 'CNAME', toType: 'file' }
+        { from: 'assets/images', to: 'assets/images' }
       ],
     }),
     new BrowserSyncPlugin({
