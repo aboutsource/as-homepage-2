@@ -23,6 +23,6 @@ Wir übernehmen keine Haftung für die Inhalte externer Links. Für den Inhalt d
 
 #### Datenschutzbeauftragter
 
-Tim Maucksch\
+Jonathan Schlue\
 Klingenstr. 22, 04229 Leipzig\
 E-Mail: <a href="mailto:dsb@aboutsource.net">dsb@aboutsource.net</a>
