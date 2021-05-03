@@ -21,7 +21,7 @@
     "browser-sync-webpack-plugin": "^2.3.0",
     "css-loader": "^5.2.0",
     "debug": "^4.3.1",
-    "webpack": "^4.46.0"
+    "webpack": "^5.36.2"
   },
   "devDependencies": {
     "@babel/core": "^7.13.14",
